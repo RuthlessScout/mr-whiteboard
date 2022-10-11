@@ -4,3 +4,5 @@
 ## WHAT DO YOU NEED(какво ви трябва?)
 PolyZone
 qb-core
+qb-menu
+qb-input
