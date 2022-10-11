@@ -5,4 +5,4 @@
 PolyZone
 qb-core
 qb-menu
-qb-input
+qb-target
